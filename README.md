@@ -12,3 +12,10 @@ Example used in the blog post How to Create Infinite Scroll With Django
 `python manage.py migrate`
 
 `python manage.py runserver`
+
+#### Screen shot
+
+Home Index
+
+![Home Index](img/home.png "Home Index")
+
